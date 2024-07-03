@@ -122,4 +122,6 @@
     
     "files.autoSave": "afterDelay",
     "workbench.iconTheme": "material-icon-theme",
+    
+    "jupyter.askForKernelRestart": false,
 }
